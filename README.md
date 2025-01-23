@@ -14,21 +14,24 @@ To start using the API, follow these simple steps:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/manjisama1/wa-chat-ss-api waChatApi
-   cd waChatApi
+
+   - git clone https://github.com/manjisama1/wa-chat-ss-api waChatApi
+   - cd waChatApi
    
 
-2. Install the necessary dependencies:
+3. Install the necessary dependencies:
    bash
-   npm install
+   
+   - npm install
    
 
-3. Run the server:
+5. Run the server:
    bash
-   node index.js
+
+   - node index.js
    
 
-4. Make a request to the API endpoint to generate a screenshot. (/generate)
+7. Make a request to the API endpoint to generate a screenshot. (/generate)
 
 ## API Documentation
 
