@@ -33,10 +33,6 @@ To start using the API, follow these simple steps:
 
 7. Make a request to the API endpoint to generate a screenshot. (/generate)
 
-## API Documentation
-
-This section will include information on how to interact with the API endpoints, including request formats and response examples.
-
 ## Acknowledgments
 
 A special thank you to [lyfe00011](https://github.com/lyfe00011) for helping me with this project. Your support has been invaluable!
